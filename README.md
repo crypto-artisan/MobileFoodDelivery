@@ -231,6 +231,7 @@ Find the link for the complete documentation of the Enatega Multi Vendor Solutio
 ## :warning: Disclaimer: <a id="heading-12"></a>
 
 The frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For further information, contact us on the channels provided below.
+create by luckyman816
 
 ## :mailbox_with_mail: Contact Us: <a id="heading-13"></a>
 	
